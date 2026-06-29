@@ -38,6 +38,34 @@
       "assistant_tag": "assistant"
     }
   },
+  "jewelry_color": {
+    "file_name": "jewelry_color_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "jewelry_color_val": {
+    "file_name": "jewelry_color_val.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
   "mllm_audio_demo": {
     "file_name": "mllm_audio_demo.json",
     "formatting": "sharegpt",
